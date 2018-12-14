@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 255a2804e9a8748438384d23745e6b84
+  - enabled: 1
+    path: Assets/Scenes/Tutorial Level.unity
+    guid: 43e5034e546b39c47a7c455ee8554145
+  - enabled: 1
+    path: Assets/Scenes/Endless Runner.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Endless Runner 2.unity
+    guid: 8786454439039f940b331efb4741fd3a
+  - enabled: 1
+    path: Assets/Scenes/Endless Level 3.unity
+    guid: fa7e03bc5bbc83e4195b51b3b7732002
+  m_configObjects: {}
